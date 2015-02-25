@@ -1,0 +1,2 @@
+# FTCC
+Feather Coin Classic

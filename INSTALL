@@ -1,0 +1,9 @@
+Building FeatherCoinClassic
+
+See doc/readme-qt.rst for instructions on building FeatherCoinClassic-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FeatherCoinClassic.
+
+See doc/build-*.txt for instructions on building FeatherCoinClassicd,
+the intended-for-services, no-graphical-interface, reference
+implementation of FeatherCoinClassic.
